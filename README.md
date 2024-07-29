@@ -14,8 +14,7 @@ Table of Contents
 - [Usage](#usage)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 Introduction
 This project explores the use of machine learning techniques to predict whether or not a patient has heart disease based on their medical attributes. It utilizes various data analysis and machine learning libraries in Python.
